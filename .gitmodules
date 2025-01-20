@@ -1,3 +1,6 @@
 [submodule "sub-repo"]
 	path = sub-repo
 	url = https://github.com/0xtimsb/sub-repo.git
+[submodule "sub"]
+	path = sub
+	url = git@github.com:0xtimsb/sub-repo.git
